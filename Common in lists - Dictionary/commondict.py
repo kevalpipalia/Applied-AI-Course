@@ -8,7 +8,7 @@ random.shuffle(l2)
 
 smallList = {}
 for ele in l2:
-    smallList[ele] = 1; //setting value, could be anything (doesn't matter) 
+    smallList[ele] = 1; #setting value, could be anything (doesn't matter) 
 count = 0;
 for i in l1:
     if smallList.get(i) != None:
