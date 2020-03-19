@@ -1,0 +1,17 @@
+Assignment: Data Visualization with Haberman Dataset
+ —————————————————— 
+1. This is the first assignment on data visualization. 
+2. You can get the data from Google Drive link. 
+3. Please document every plot and every analysis you do. 
+4. Please refer to the above-attached notebook. 
+5. Note: Upload both python notebook and pdf version of that notebook. 
+6. Refer this: https://ipython.org/ipython-doc/3/notebook/nbconvert.html  to convert python notebooks to PDFs.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+1. Download Haberman Cancer Survival dataset from Kaggle. You may have to create a Kaggle account to donwload data. (https://www.kaggle.com/gilsousa/habermans-survival-data-set)
+2. Perform a similar alanlaysis as above on this dataset with the following sections:
+* High level statistics of the dataset: number of points, numer of   features, number of classes, data-points per class.
+* Explain our objective. 
+* Perform Univaraite analysis(PDF, CDF, Boxplot, Voilin plots) to understand which features are useful towards classification.
+* Perform Bi-variate analysis (scatter plots, pair-plots) to see if combinations of features are useful in classfication.
+* Write your observations in english as crisply and unambigously as possible. Always quantify your results.
